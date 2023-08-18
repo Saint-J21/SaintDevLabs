@@ -1,3 +1,7 @@
-Welcome to my Web Development
+Welcome to my Web Development directory.
 
-this will harbour all websites created.
+Here you will find folders to the websites I have created.
+
+    ~ Moladira Skills
+    ~ FibreGems
+    ~ SaintDevLabs
