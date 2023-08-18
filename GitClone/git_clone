@@ -1,0 +1,4 @@
+git clone https://{YOUR_PERSONAL_TOKEN}@github.com/{Saint-J21}/{REPO}
+
+git config --global user.email "gbmaubane@gmail.com"
+git config --global user.name "Saint-J21"
